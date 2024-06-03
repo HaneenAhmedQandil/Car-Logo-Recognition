@@ -21,3 +21,8 @@ You can install the Python packages using pip:
 
 ```bash
 pip install keras opencv-python matplotlib numpy
+
+![image](https://github.com/HaneenAhmedQandil/Car-Logo-Recognition/assets/162059078/0c04deb6-1257-4075-a6e2-8b60f818ffcc)
+![image](https://github.com/HaneenAhmedQandil/Car-Logo-Recognition/assets/162059078/b1d2ea7f-af7e-45be-bcbd-4df1d73fd0ac)
+
+
