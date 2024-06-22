@@ -3,6 +3,9 @@ This project uses a Convolutional Neural Network (CNN) with Keras and TensorFlow
 
 This project is a deep learning model for image classification. It uses Keras and OpenCV to train a model on a dataset of images, and then uses the trained model to classify new images.
 
+## Dataset Link
+[Car Brand Logos Dataset](https://www.kaggle.com/datasets/volkandl/car-brand-logos)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
